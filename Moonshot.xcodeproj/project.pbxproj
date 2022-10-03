@@ -18,6 +18,7 @@
 		DD6E4F8C28E38C1D00D73404 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD6E4F8B28E38C1D00D73404 /* ContentView.swift */; };
 		DD6E4F8E28E38C2100D73404 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD6E4F8D28E38C2100D73404 /* Assets.xcassets */; };
 		DD6E4F9128E38C2100D73404 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD6E4F9028E38C2100D73404 /* Preview Assets.xcassets */; };
+		DD6EB96028EB64E400D1A49A /* AstronautView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD6EB95F28EB64E400D1A49A /* AstronautView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		DD6E4F8B28E38C1D00D73404 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DD6E4F8D28E38C2100D73404 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DD6E4F9028E38C2100D73404 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DD6EB95F28EB64E400D1A49A /* AstronautView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronautView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 				DD5FEE4728E9DED600319446 /* Data */,
 				DD5FEE4F28E9FE9F00319446 /* Extension */,
 				DD5FEE4E28E9FE9300319446 /* Model */,
+				DD6EB95F28EB64E400D1A49A /* AstronautView.swift */,
 				DD6E4F8B28E38C1D00D73404 /* ContentView.swift */,
 				DD5FEE5428EA0FC700319446 /* DetailView.swift */,
 				DD6E4F8928E38C1D00D73404 /* MoonshotApp.swift */,
@@ -186,6 +189,7 @@
 			files = (
 				DD5FEE4D28E9FD0900319446 /* Astronaut.swift in Sources */,
 				DD5FEE5528EA0FC700319446 /* DetailView.swift in Sources */,
+				DD6EB96028EB64E400D1A49A /* AstronautView.swift in Sources */,
 				DD5FEE5728EA161D00319446 /* Color-Theme.swift in Sources */,
 				DD6E4F8C28E38C1D00D73404 /* ContentView.swift in Sources */,
 				DD6E4F8A28E38C1D00D73404 /* MoonshotApp.swift in Sources */,
