@@ -95,11 +95,11 @@
 				DD5FEE4728E9DED600319446 /* Data */,
 				DD5FEE4F28E9FE9F00319446 /* Extension */,
 				DD5FEE4E28E9FE9300319446 /* Model */,
-				DD6E4F8928E38C1D00D73404 /* MoonshotApp.swift */,
 				DD6E4F8B28E38C1D00D73404 /* ContentView.swift */,
+				DD5FEE5428EA0FC700319446 /* DetailView.swift */,
+				DD6E4F8928E38C1D00D73404 /* MoonshotApp.swift */,
 				DD6E4F8D28E38C2100D73404 /* Assets.xcassets */,
 				DD6E4F8F28E38C2100D73404 /* Preview Content */,
-				DD5FEE5428EA0FC700319446 /* DetailView.swift */,
 			);
 			path = Moonshot;
 			sourceTree = "<group>";
