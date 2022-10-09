@@ -19,6 +19,7 @@
 		DD6E4F8E28E38C2100D73404 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD6E4F8D28E38C2100D73404 /* Assets.xcassets */; };
 		DD6E4F9128E38C2100D73404 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD6E4F9028E38C2100D73404 /* Preview Assets.xcassets */; };
 		DD6EB96028EB64E400D1A49A /* AstronautView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD6EB95F28EB64E400D1A49A /* AstronautView.swift */; };
+		DD721D5128EC1D5500B4857B /* HorizontalScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD721D5028EC1D5500B4857B /* HorizontalScrollView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		DD6E4F8D28E38C2100D73404 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DD6E4F9028E38C2100D73404 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DD6EB95F28EB64E400D1A49A /* AstronautView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronautView.swift; sourceTree = "<group>"; };
+		DD721D5028EC1D5500B4857B /* HorizontalScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HorizontalScrollView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				DD6E4F8928E38C1D00D73404 /* MoonshotApp.swift */,
 				DD6E4F8D28E38C2100D73404 /* Assets.xcassets */,
 				DD6E4F8F28E38C2100D73404 /* Preview Content */,
+				DD721D5028EC1D5500B4857B /* HorizontalScrollView.swift */,
 			);
 			path = Moonshot;
 			sourceTree = "<group>";
@@ -194,6 +197,7 @@
 				DD6E4F8C28E38C1D00D73404 /* ContentView.swift in Sources */,
 				DD6E4F8A28E38C1D00D73404 /* MoonshotApp.swift in Sources */,
 				DD5FEE5328EA035800319446 /* Mission.swift in Sources */,
+				DD721D5128EC1D5500B4857B /* HorizontalScrollView.swift in Sources */,
 				DD5FEE5128E9FECD00319446 /* Bundle-Decodable.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
